@@ -1,0 +1,10 @@
+# C executable
+
+cisect
+
+
+# VIM
+
+*.vim
+*.swp
+*.swo
